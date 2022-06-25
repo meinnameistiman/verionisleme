@@ -1,6 +1,6 @@
 # verionisleme
 
-**Veri Onisleme nedir** ?
+**Veri Onisleme nedir** ? //
 
 Veri ön işlemesi ve teknikleri veri madenciliği konusunda öncelikli konulardan biridir. Veri
 önişlemesi çalışmanın başlangıç aşamasında, bitmiş bir model ortaya koymamışken elde
