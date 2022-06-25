@@ -1,6 +1,6 @@
 # verionisleme
 
-##**Veri Onisleme nedir** ?
+**Veri Onisleme nedir** ?
 
 Veri ön işlemesi ve teknikleri veri madenciliği konusunda öncelikli konulardan biridir. Veri
 önişlemesi çalışmanın başlangıç aşamasında, bitmiş bir model ortaya koymamışken elde
@@ -10,7 +10,7 @@ kaldırılması, tekrarlı verilerin tespit edip kaldırılması, normalleştiri
 düzeltilmesidir. Kısaca eğer veri ön işlemesi yapılmazsa uygulanan fonksiyonlar sonrası veri
 bizi yanlış sonuçlara götürür.
 
-##**Veri ön işleme teknikleri:**
+**Veri ön işleme teknikleri:**
 **Veri Temizleme**: Veri kümesi içinde aykırı ve eksik değerlerin temizlenmesi ve ya
 tamamlanmasına denir. Veri temizlemesi sonra veri üzerinde ki gürültü azalır. Veri
 temizlemesi için birden fazla teknik vardır.
@@ -20,7 +20,7 @@ programlama işlemlerine uygun olacak şekilde dönüştürülmesidir.
 **Veri İndirgeme**: Bu son aşamada ise verinin son özet formunu elde etmeye çalışırız.
 
 
-##**Öznitelikler**
+**Öznitelikler**
 
 Öznitelik seçilme sebebi mevcut veri kümesi ile istenen sonucun tahmin sonrası en yakın
 değere, en iyi tahmin sonucuna daha az nitelik kullanımı ile ulaşılmasıdır. Daha iyi sonuçlara
