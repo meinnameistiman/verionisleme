@@ -1,0 +1,2 @@
+# verionisleme
+Veri Onisleme nedir ?
